@@ -1,7 +1,8 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=%20Kyunglim's%20Profile%20💻&fontSize=70&fontAlign=50)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=000000&width=435&lines=%F0%9F%91%8B+Hi%2C+there!+Kyunglim's+Profile+💻" alt="Typing SVG" /></a>
+</br>
+</br>
+	
 
 ---
 
