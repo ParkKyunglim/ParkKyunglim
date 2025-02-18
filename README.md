@@ -64,8 +64,12 @@
 ---
 
 ### 📫 Contact 📫
-- **Email**: pkl1004125@gmail.com
-
+<p>
+<a href="mailto:pkl1004125@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+<a href="[https://blog.cowkite.com](https://rxxm.tistory.com/)/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+</p>
 ---
 
 </div>
